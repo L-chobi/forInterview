@@ -39,7 +39,7 @@
 #### DML, DDL, DCL
 - DML: DB에 들어있는 데이터를 조작, 조회, 검색하기 위한 명령어(SELECT, DELETE, UPDATE, INSERT)
 - DDL: 테이블 구조를 정의하는데 사용되는 명령어(CREATE, ALTER, DROP, TRUNCATE)
-- DML: DB에 접근하거나 객체에 권한을 주는 등 역할을 하는 언어(COMMIT, ROLLBACK, GRANT, REVOKE)
+- DCL: DB에 접근하거나 객체에 권한을 주는 등 역할을 하는 언어(COMMIT, ROLLBACK, GRANT, REVOKE)
 
 #### 트리거
 - DML이 수행되었을 때 DB에서 자동으로 동작하도록 작성된 프로그램
